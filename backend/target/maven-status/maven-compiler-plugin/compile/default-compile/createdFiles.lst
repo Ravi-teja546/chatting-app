@@ -1,0 +1,8 @@
+com\example\websocketchart\repository\AuthRepository.class
+com\example\websocketchart\model\User.class
+com\example\websocketchart\model\Message.class
+com\example\websocketchart\filter\CorsFilter.class
+com\example\websocketchart\BackendApplication.class
+com\example\websocketchart\config\WebSocketConfig.class
+com\example\websocketchart\controller\AuthController.class
+com\example\websocketchart\controller\ChatController.class
